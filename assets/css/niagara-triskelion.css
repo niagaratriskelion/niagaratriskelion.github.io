@@ -1,7 +1,7 @@
 .about__logo {
     text-align: center;
 
-    img {
+    >img {
         width: 100%;
         height: auto;
     }
